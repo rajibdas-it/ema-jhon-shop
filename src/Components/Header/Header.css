@@ -1,0 +1,22 @@
+.header {
+  background-color: #1c2b35;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-right: 110px;
+  padding-left: 100px;
+}
+.header a {
+  text-decoration: none;
+  margin-left: 32px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  color: #ffffff;
+}
+.header a:hover {
+  color: orange;
+  cursor: pointer;
+}
